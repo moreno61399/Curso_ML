@@ -1,0 +1,4 @@
+﻿Nombre Apellido1 Apellido2 Correo
+Mikel Galar Idoate mikel.galar@unavarra.es
+Humberto Bustince Sola bustince@unavarra.es
+Daniel Paternain Dallo daniel.paternain@unavarra.es
